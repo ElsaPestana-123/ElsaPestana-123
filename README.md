@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Elsa
 
-<!--
-**ElsaPestana-123/ElsaPestana-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de **Ciencias de la Computación**  
+💻 Con interés en el desarrollo de software, resolución de problemas y algoritmos.  
+🚀 Actualmente en proceso de fortalecer mis bases en programación y ampliar mis conocimientos en tecnología.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tecnologías y Herramientas
+- Lenguajes principales: **Python 🐍** | **C++ ⚙️**  
+- Control de versiones: Git y GitHub  
+- Entornos: Visual Studio Code y Jupyter Notebook  
+
+---
+
+## 📂 Proyectos de Aprendizaje
+- **Programas en C++**: Desarrollo de estructuras de datos y algoritmos básicos.
+- **Simulación del trafico**: Proyecto en c++
+
+*(Estos proyectos son parte de mi formación y práctica constante para mejorar mis habilidades.)*  
+
+---
+
+## 🌱 Actualmente aprendiendo
+- Principios de **estructuras de datos** y **algoritmos**  
+- Buenas prácticas en control de versiones con Git  
+
+---
+
+## 📫 Contacto
+- Email: elsacpestana@gmail.com  
+- GitHub: [github.com/ElsaPestana-123](https://github.com/ElsaPestana-123)  
+
+---
+
+⭐ *"La programación es como un rompecabezas: cada semana añades una pieza nueva al panorama final"*
+
