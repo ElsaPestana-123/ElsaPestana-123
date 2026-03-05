@@ -17,6 +17,7 @@
 - **Programas en C++**: Desarrollo de estructuras de datos y algoritmos básicos.
 - **Simulación del trafico**: Proyecto en c++
 - **Vista de Cazador**: Proyecto en c++
+- **Asalto Rapido**: Proyecto en c++
 
 *(Estos proyectos son parte de mi formación y práctica constante para mejorar mis habilidades.)*  
 
