@@ -1,8 +1,5 @@
-# Hi there! I'm Elsa Pestana 👋
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=[your-github-username]&label=Profile%20Views&color=00bfff&style=flat" alt="Profile Views" />
-</p>
+<img width="1500" height="500" alt="banner github" src="https://github.com/user-attachments/assets/d717e607-4c1c-4d2c-b01b-4b27d9da481a" />
 
 ## CS Engineer & Software Developer | UCV | ICPC Competitor
 
@@ -10,10 +7,18 @@ I am a passionate Computer Science student at Universidad Central de Venezuela (
 
 Currently, I am focused on **Mobile Development (Kotlin)** and **Responsive Web Frontend (HTML/CSS)**, always aiming for code optimization and delivering an outstanding user experience (UX/UI).
 
-<p align="left">
-  <a href="mailto:elsacpestana@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="[your-linkedin-link]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="[your-portfolio-link]"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+## 📬 Let's Connect
+
+<p align="center">
+  <a href="mailto:elsacpestana@gmail.com">
+    <img src=https://github.com/user-attachments/assets/2374de77-1869-4666-9f2d-658acb873bbe width="45" alt="Email" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="[tu-link-de-linkedin]">
+    <img src=https://github.com/user-attachments/assets/2293ab01-cf09-48ac-b6fb-5ed00e830cc0 width="45" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="[tu-link-de-portfolio]">
+    <img src=https://github.com/user-attachments/assets/eaae0c65-9a74-4d3e-bf88-c25881aeffd7 width="45" alt="Portfolio" />
+  </a>
 </p>
 
 ## 🚀 Featured Projects (In Development)
@@ -23,38 +28,43 @@ Currently, I am focused on **Mobile Development (Kotlin)** and **Responsive Web 
 
 ## 💻 Tech Stack 
 
-<table border="0">
-  <tr>
-    <td align="center"><b>Core (Logic & Algorithms)</b></td>
-    <td align="center"><b>Mobile & Backend Concepts</b></td>
-    <td align="center"><b>Frontend (Web)</b></td>
-    <td align="center"><b>Tools</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center"><b>Core (Logic & Algorithms)</b></td>
+      <td align="center"><b>Mobile & Backend Concepts</b></td>
+      <td align="center"><b>Frontend (Web)</b></td>
+      <td align="center"><b>Tools</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src=https://github.com/user-attachments/assets/ef99ecba-1e29-4d66-804d-944b54f3e527 width="40" alt="C++" />&nbsp;&nbsp;
+        <img src=https://github.com/user-attachments/assets/97b56530-f513-44a2-a500-884d4fb11e93
+ width="40" alt="Python" />
+      </td>
+      <td align="center">
+        <img src=https://github.com/user-attachments/assets/32afbd9b-744f-4a17-9f29-fac9618c0148 width="40" alt="Kotlin" />&nbsp;&nbsp;
+        <img src=https://github.com/user-attachments/assets/e16f3d21-556c-48de-a997-87d05bc1c164 width="40" alt="SQL" />
+      </td>
+      <td align="center">
+        <img src=https://github.com/user-attachments/assets/43921307-82bc-4f55-9dcc-f2e6f825aeb9
+width="40" alt="HTML5" />&nbsp;&nbsp;
+        <img src=https://github.com/user-attachments/assets/6d856895-a9fb-42f4-8f9c-b0a9432e1122
+ width="40" alt="CSS3" />
+      </td>
+      <td align="center">
+        <img src=https://github.com/user-attachments/assets/26147e9a-3218-4a3f-9de4-8699c773cf17
+ width="40" alt="Git" />&nbsp;&nbsp;
+        <img src=https://github.com/user-attachments/assets/d129f124-b8c1-4e2c-b45d-0c90926d606c width="40" alt="GitHub" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-## 📊 GitHub Statistics
+## 🔥 GitHub Activity</h2>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&theme=dark&rank_icon=github&count_private=true&title_color=00bfff&text_color=ffffff&bg_color=1c1c1c" alt="[your-username]'s GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[your-github-username]&theme=dark&date_format=M%20j%5B%2C%20Y%5D&title_color=00bfff&text_color=ffffff&bg_color=1c1c1c&streak_color=00bfff" alt="Contribution Streak" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElsaPestana-123&theme=dark&bg_color=1c1c1c&title_color=00bfff&text_color=ffffff&streak_color=00bfff&hide_border=true" alt="Contribution Streak" />
 </p>
 
 ***
